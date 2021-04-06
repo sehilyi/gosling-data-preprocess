@@ -8,4 +8,6 @@ conda env create -f environment.yml
 conda activate gos
 
 jupyter lab
+
+conda env update -f environment.yml
 ```

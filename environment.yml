@@ -18,6 +18,7 @@ dependencies:
   - requests
   - pip
   - pip:
+    - clodius
     - h5py
     - PyVCF
     - lineup_widget
