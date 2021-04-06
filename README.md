@@ -6,4 +6,6 @@ This repository contains jupyter notebooks and codes for processing data to use 
 conda env create -f environment.yml
 
 conda activate gos
+
+jupyter lab
 ```
