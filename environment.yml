@@ -1,4 +1,4 @@
-name: gos
+name: gosling-data
 channels:
   - conda-forge
   - bioconda
